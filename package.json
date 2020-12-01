@@ -1,0 +1,19 @@
+{
+  "name": "react_components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankowskitomasz/react_components.git"
+  },
+  "author": "Tomasz Pankowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankowskitomasz/react_components/issues"
+  },
+  "homepage": "https://github.com/pankowskitomasz/react_components#readme"
+}
